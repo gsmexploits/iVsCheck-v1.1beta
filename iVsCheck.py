@@ -13,10 +13,8 @@ import subprocess
 from PIL import ImageTk, Image
 # web
 import webbrowser
-# sounds
-# from pygame import mixer
 
-# Designed and developed by @ios_euphoria
+#First pop up
 messagebox.showinfo("Info", "Please make sure your iDevice is connected in Diag or Normal mode.. Enjoy :)")
 
 # frame settings
