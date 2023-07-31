@@ -7,4 +7,5 @@ You are good to go.. Enjoy :)
 
 PIL Installation with CMD
 python3 -m pip install --upgrade pip
+
 python3 -m pip install --upgrade Pillow
